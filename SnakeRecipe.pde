@@ -284,6 +284,6 @@ void checkTailCollision() {
     if (head.getX() == segment.getX() && head.getY() == segment.getY()) {
       foodConsumed = 1;
     }
-    //Call this method at the beginning of your manageTail method.
+    // Call this method at the beginning of your manageTail method.
   }
 }
